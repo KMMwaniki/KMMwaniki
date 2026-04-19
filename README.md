@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-🚀-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data-Nature-Art-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00AA00?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20%7C%20Nature%20%7C%20Art-9C27B0?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ I am a **certified barista**. Precision, patience and the pursuit of perfection 
 
 <p align="center">
   <a href="https://open.spotify.com/user/31gjkyd6obvbjmpdklbvaalvavdm?si=bf41f0d64ba44f95">
-    <img src="https://img.shields.io/badge/Follow_me_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
@@ -144,10 +144,10 @@ Whether it's data, cake, or hair let's talk.
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://instagram.com/membu.naturals">
-    <img src="https://img.shields.io/badge/Membu_Naturals-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://instagram.com/membu.atelier">
-    <img src="https://img.shields.io/badge/Membu_Atelier-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
