@@ -42,7 +42,7 @@ I am the Founder and CEO of **Membu Naturals** and **Membu Atelier** two home-ba
 | Brand | Focus |
 |-------|-------|
 | 🌸 **Membu Naturals** | Natural hair products with clean, intentional ingredients for textured hair |
-| 🎂 **Membu Atelier** | Luxury bakery & floral cake studio wjere sugar meets sculpture |
+| 🎂 **Membu Atelier** | Luxury bakery & floral cake studio where sugar meets sculpture |
 
 ---
 
